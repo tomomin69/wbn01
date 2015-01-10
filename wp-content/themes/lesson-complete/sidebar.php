@@ -1,3 +1,4 @@
+ccccccccccccccccc
 <ul>
 <li class="sideBnr" id="sideContact"><a href="/contact/"><img src="<?php echo get_template_directory_uri(); ?>/images/bnr_contact.png" alt="お問い合わせ"></a></li>
 </ul>
